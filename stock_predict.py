@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 15 18:23:36 2018
 
-@author: heman
-"""
 
 from keras.layers.core import Dense, Activation, Dropout
 from keras.layers.recurrent import LSTM
