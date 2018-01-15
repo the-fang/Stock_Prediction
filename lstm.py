@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 15 18:23:06 2018
 
-@author: heman
-"""
 
 import time
 import warnings
